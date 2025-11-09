@@ -1,2 +1,2 @@
 # Java_Mini_Project
-RECIPE MANAGEMENT SYSTEM
+Inventory Management System
